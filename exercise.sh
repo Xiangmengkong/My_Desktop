@@ -4,7 +4,7 @@
 #let's edit master 
 
 #rm delta.tx
-for i in {1..20}
+for i in {5..20}
 do
   j=i+1 
   echo $i $j >> delta.txt
